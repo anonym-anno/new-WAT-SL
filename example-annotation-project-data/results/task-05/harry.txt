@@ -1,0 +1,15 @@
+segment-labeling.0 = patienthistorysection
+segment-labeling.1 = patienthistorysection
+segment-labeling.2 = diagnostics
+segment-labeling.3 = diagnostics
+segment-labeling.4 = diagnostics
+segment-labeling.5 = patienthistorysection
+segment-labeling.6 = patienthistorysection
+segment-labeling.7 = diagnostics
+segment-labeling.8 = diagnostics
+segment-labeling.9 = diagnostics
+segment-labeling.10 = diagnostics
+segment-labeling.11 = diagnostics
+segment-labeling.12 = diagnostics
+segment-labeling.13 = therapy
+segment-labeling.14 = therapy

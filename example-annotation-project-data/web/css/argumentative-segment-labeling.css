@@ -1,0 +1,86 @@
+#segment-labeling-body .continued
+{
+	background-color: #dddddd !important;
+	/*font-weight: bold;*/
+}
+#segment-labeling-body .preamble
+{
+	background-color: #fec466 !important;
+	/*font-weight: bold;*/
+}
+#segment-labeling-body .anamnesis
+{
+	background-color: #E78465 !important;
+	/*font-weight: bold;*/
+}
+	#segment-labeling-body .anamnesissection
+	{
+		background-color: #E78465 !important;
+		/*font-weight: bold;*/
+	}
+	#segment-labeling-body .patienthistorysection
+	{
+		background-color: #eea893 !important;
+		/*font-weight: bold;*/
+	}
+	#segment-labeling-body .familyhistorysection
+	{
+		background-color: #f5cdc1 !important;
+		/*font-weight: bold;*/
+	}
+#segment-labeling-body .diagnostics
+{
+	background-color: #bba58d !important;
+	/*font-weight: bold;*/
+}
+
+
+#segment-labeling-body .medication
+{
+	background-color: #dfed76 !important;
+	/*font-weight: bold;*/
+}
+	#segment-labeling-body .medicationsection
+	{
+		background-color: #dfed76 !important;
+		/*font-weight: bold;*/
+	}
+	#segment-labeling-body .admissionmedicationsection
+	{
+		background-color: #e8f29f !important;
+		/*font-weight: bold;*/
+	}
+	#segment-labeling-body .medicationduringstaysection
+	{
+		background-color: #eff6ba !important;
+		/*font-weight: bold;*/
+	}
+	#segment-labeling-body .dischargemedicationsection
+	{
+		background-color: #f8fbe3 !important;
+		/*font-weight: bold;*/
+	}
+
+#segment-labeling-body .therapy
+{
+	background-color: #ffecad !important;
+	/*font-weight: bold;*/
+}
+#segment-labeling-body .future
+{
+	background-color: #C9DFEB !important;
+	/*font-weight: bold;*/
+}
+#segment-labeling-body .appendix
+{
+	background-color: #d2d2d2 !important;
+	/*font-weight: bold;*/
+}
+/*.panel-collapse-toggle
+{
+	font-weight: bold;
+}
+#dropdown-toggle
+{
+	font-weight: bold;
+}*/

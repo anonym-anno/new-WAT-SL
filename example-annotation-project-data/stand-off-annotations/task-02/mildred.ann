@@ -1,0 +1,64 @@
+T0	anamnesissection 0 15	CAVE:
+T1	patienthistorysection 17 37	ULCUSKRANKHEIT, Allergie auf DoloPosterine, AMOXICILLIN
+T2	anamnesissection 39 54	Anamnese:
+T3	patienthistorysection 56 76	    Übliche Kinderkrankheiten, in der Kindheit Nierenerkrankung (?), sonst in früheren Jahren keine wesentlichen Vorerkrankungen.
+T4	patienthistorysection 78 98	    1955 Appendektomie
+T5	patienthistorysection 100 120	    1956 TE
+T6	patienthistorysection 122 142	    1968 OP einer Pericardcyste
+T7	patienthistorysection 144 164	    Seit 1989 Hypertonie und latente Hypothyreose.
+T8	patienthistorysection 166 186	    1989 Ulcus duodeni.
+T9	patienthistorysection 188 208	    1977 und 1993 Polypektomie im Colon deszendens, Kontroll-Coloskopie 3/99 o. B.
+T10	patienthistorysection 210 230	    11/01 kleiner Mediateilinfarkt re. unklarer Ätiologie.
+T11	patienthistorysection 232 252	    Seit Jahren Descensus uteri et vaginae.
+T12	patienthistorysection 254 274	    Hallux valgus li.
+T13	patienthistorysection 276 296	    Patelladysplasie Typ Wibert II. li.
+T14	patienthistorysection 298 318	    6/02 Arthroskopie re. Knie.
+T15	patienthistorysection 320 340	    9/03 Koloskopie mit Resektion eines Polypen im Colon ascendens.
+T16	patienthistorysection 342 362	    1/2005 ED eines Bandscheibenprolaps L3/4 und einer Spinalkanalstenose L4/5.
+T17	patienthistorysection 364 384	    5/2005 distale Radiusfraktur li. mit distaler Ulnafraktur. Versorgung mittels Platte und K-Draht.
+T18	patienthistorysection 386 406	    Seit 11/2005 manifester Diabetes mellitus Typ II.
+T19	patienthistorysection 408 428	    9/2006 Polypektomie Colon deszendens, sonst Koloskopie o. B.
+T20	patienthistorysection 430 450	    12/2008 Kontrollcoronarangiographie ohne akut interventionsbedürftigen Befund.
+T21	patienthistorysection 452 472	    1/2010 Kontrollkoloskopie, Abtragung von zwei Polypenknospen.
+T22	patienthistorysection 474 494	    04/2011 OP bei hochgradiger Spinalkanalstenose abgelehnt
+T23	patienthistorysection 496 516	    5/2011 therapeutische LA lumbal erfolgreich
+T24	patienthistorysection 518 538	    8/2011 mikrochirurgische Erweiterung WK LWK 1/2 bis 4/5.
+T25	patienthistorysection 540 560	    11/2011 NPP L4/5: konservativ.
+T26	patienthistorysection 562 582	    12/2011 Distorsion OSG re.
+T27	patienthistorysection 584 604	    1/2012 vaginale Hysterektomie bei Uterus myomatosus.
+T28	patienthistorysection 606 626	    3/2012 ED einer mittelschweren Coxarthrose re.
+T29	patienthistorysection 628 648	    06/2012 bei initialem V. a. dementielle Entwicklung Ausschluss NPH oder cerebale Raumforderung (CT).
+T30	patienthistorysection 650 670	    9/2012 erneute Nukleotomie mit Spondylodese L4/5
+T31	anamnesissection 672 687	Dauerdiagnosen:
+T32	anamnesissection 689 704	    Diabetes mellitus – gesichert –
+T33	patienthistorysection 706 726	    Depressive Episode
+T34	patienthistorysection 728 748	    Hypertonie
+T35	patienthistorysection 750 770	    Nicht näher bezeichnete Hämaturie
+T36	patienthistorysection 772 792	    Lumboischialgie
+T37	patienthistorysection 794 814	    Zust. nach Hirninfarkt nicht näher bezeichnet re.
+T38	patienthistorysection 816 836	    Hypothyreose nicht näher bezeichnet
+T39	patienthistorysection 838 858	    Koronare Herzkrankheit
+T40	patienthistorysection 860 880	    Jodmangelbedingte mehrknotige Struma endemisch
+T41	patienthistorysection 882 902	    Chronisches Schmerzsyndrom
+T42	patienthistorysection 904 924	    Spinalkanalstenose: Lumbalbereich
+T43	patienthistorysection 926 946	    Varicosis bds.
+T44	patienthistorysection 948 968	    Sonstige sekundäre Koxarthrose re.
+T45	patienthistorysection 970 990	    Drop Attacks
+T46	medicationsection 992 1008	Dauermedikation
+T47	medicationsection 1010 1026		Morgens 	Mittags 	Abends 	zur Nacht
+T48	medicationsection 1028 1044	Bisoprolol 	1 			
+T49	medicationsection 1046 1062	ASS 100 		1 		
+T50	medicationsection 1064 1080	Allopurinol 300 	1 			
+T51	medicationsection 1082 1098	Amitriptylin 75 			1 	
+T52	medicationsection 1100 1116	Jodid 200 	1 			
+T53	medicationsection 1118 1134	Simvastatin 40 			½ 	
+T54	appendix 1136 1143	Letzte Änderung am: 13.11.2012
+T55	therapy 1145 1151	Kontrolluntersuch
+T56	therapy 1153 1159	HZV-DAK
+T57	therapy 1161 1167	DMP Diabetes mellitus
+T58	medicationsection 1169 1185	Impfungen:
+T59	medicationsection 1187 1203	Datum 	Art 	Chargennummer
+T60	medicationsection 1205 1221	19.2.13 	Td-pur Impfung (Tetanol/Diphterie). 	063311A (D)
+T61	medicationsection 1223 1239	8.11.02 	Pneumopur i.m. 	HP27610 (D)
+T62	medicationsection 1241 1257	24.3.00 	2. Havrix 1440 i.m. 	VHA604C6 (St)
+T63	medicationsection 1259 1275	23.9.99 	1. Havrix 1440 i.m. 	VHA551B6 

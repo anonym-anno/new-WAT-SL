@@ -1,0 +1,16 @@
+text	label
+Anamnese:	patienthistorysection
+Siehe Arztbrief des Hausarztes in der Anlage	patienthistorysection
+Befund:	diagnostics
+21.12.2005: Oberflächlich spreitende Hautveränderung am Übergang vom Hinterkopf zum Hals mit einem Durchmesser von 1 cm.	diagnostics
+Beispielbild	diagnostics
+Diagnosen:	patienthistorysection
+C43.4 V Verdacht auf Melanom am Übergang vom Hinterkopf zum Hals Laborparameter: -	patienthistorysection
+Röntgen: -	diagnostics
+Fremdbefunde: -	diagnostics
+Histologie: -	diagnostics
+Verlauf: -	diagnostics
+Entlassungsbefund: -	diagnostics
+Prognose: -	diagnostics
+Therapien: -	therapy
+Empfehlung: Ambulantes oder stationäres Entfernen der Hautveränderung und histologische Bestimmung.	therapy

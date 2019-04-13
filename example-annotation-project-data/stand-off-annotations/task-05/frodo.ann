@@ -1,0 +1,15 @@
+T0	patienthistorysection 0 20	Anamnese:
+T1	patienthistorysection 22 42	Siehe Arztbrief des Hausarztes in der Anlage
+T2	diagnostics 44 54	Befund:
+T3	diagnostics 56 66	21.12.2005: Oberflächlich spreitende Hautveränderung am Übergang vom Hinterkopf zum Hals mit einem Durchmesser von 1 cm.
+T4	diagnostics 68 78	Beispielbild
+T5	patienthistorysection 80 100	Diagnosen:
+T6	patienthistorysection 102 122	C43.4 V Verdacht auf Melanom am Übergang vom Hinterkopf zum Hals Laborparameter: -
+T7	therapy 124 130	Röntgen: -
+T8	therapy 132 138	Fremdbefunde: -
+T9	therapy 140 146	Histologie: -
+T10	therapy 148 154	Verlauf: -
+T11	therapy 156 162	Entlassungsbefund: -
+T12	therapy 164 170	Prognose: -
+T13	therapy 172 178	Therapien: -
+T14	therapy 180 186	Empfehlung: Ambulantes oder stationäres Entfernen der Hautveränderung und histologische Bestimmung.

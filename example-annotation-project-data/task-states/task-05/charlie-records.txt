@@ -1,0 +1,17 @@
+2019-01-29-17-28-17.775	-60	ANNOTATOR	INFO	action	open
+2019-01-29-17-28-22.918	-60	ANNOTATOR	segment-labeling	0	patienthistorysection
+2019-01-29-17-28-25.060	-60	ANNOTATOR	segment-labeling	1	patienthistorysection
+2019-01-29-17-28-27.328	-60	ANNOTATOR	segment-labeling	2	diagnostics
+2019-01-29-17-28-30.752	-60	ANNOTATOR	segment-labeling	3	diagnostics
+2019-01-29-17-28-33.263	-60	ANNOTATOR	segment-labeling	4	diagnostics
+2019-01-29-17-28-35.228	-60	ANNOTATOR	segment-labeling	5	diagnostics
+2019-01-29-17-28-39.759	-60	ANNOTATOR	segment-labeling	5	patienthistorysection
+2019-01-29-17-28-41.515	-60	ANNOTATOR	segment-labeling	6	patienthistorysection
+2019-01-29-17-28-45.385	-60	ANNOTATOR	segment-labeling	7	diagnostics
+2019-01-29-17-28-47.386	-60	ANNOTATOR	segment-labeling	8	diagnostics
+2019-01-29-17-28-48.696	-60	ANNOTATOR	segment-labeling	9	diagnostics
+2019-01-29-17-28-50.634	-60	ANNOTATOR	segment-labeling	11	diagnostics
+2019-01-29-17-28-51.887	-60	ANNOTATOR	segment-labeling	12	diagnostics
+2019-01-29-17-28-53.414	-60	ANNOTATOR	segment-labeling	10	diagnostics
+2019-01-29-17-28-56.408	-60	ANNOTATOR	segment-labeling	13	therapy
+2019-01-29-17-28-58.225	-60	ANNOTATOR	segment-labeling	14	therapy

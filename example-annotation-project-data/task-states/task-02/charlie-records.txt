@@ -1,0 +1,3 @@
+2019-04-09-16-11-14.417	-120	ANNOTATOR	INFO	action	open
+2019-04-09-16-11-18.409	-120	ANNOTATOR	segment-labeling	0	preamble
+2019-04-09-16-11-20.685	-120	ANNOTATOR	segment-labeling	1	preamble

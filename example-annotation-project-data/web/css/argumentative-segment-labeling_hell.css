@@ -1,0 +1,22 @@
+#segment-labeling-body .continued {
+  background-color: #dddddd !important;
+}
+#segment-labeling-body .preamble {
+background-color: #fec68e !important;
+}
+#segment-labeling-body .anamnesis {
+background-color: #fefe8e !important;
+}
+#segment-labeling-body .diagnostics {
+background-color: #fe8ec6 !important;
+}
+#segment-labeling-body .therapy {
+background-color: #c6fe8e !important;
+}
+#segment-labeling-body .future {
+background-color: #8ec6fe !important;
+}
+#segment-labeling-body .appendix {
+background-color: #fec68e !important;
+}
+

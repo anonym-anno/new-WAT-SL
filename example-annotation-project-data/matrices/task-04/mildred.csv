@@ -1,0 +1,19 @@
+text	label
+Anamnese:	anamnesissection
+Die 63 jährige insulinpflichtige Diabetikerin stellt sich im Rahmen einer Borliosebehandlung mit einer Hautveränderung am Übergang zwischen Hinterkopf und Hals vor. Nach Aussage der Patientin soll sie sich innerhalb der letzten 3 Monate gebildet haben.	patienthistorysection
+Befund:	diagnostics
+20.12.2005: Oberflächlich spreitende, unregelmäßige, Hautveränderung am Übergang vom Hinterkopf zum Hals mit einem Durchmesser von ca. 1 cm, Unregelmäßige, überwiegend dunkle Hautverfärbung. Verhärtet.	diagnostics
+Diagnosen:	anamnesissection
+E11.90 G Nicht primär insulinabhängiger Diabetes mellitus (Typ-2-Diabetes) ohne Komplikationen, nicht als entgleist bezeichnet	patienthistorysection
+A69.2 G Borreliose	patienthistorysection
+C43.4 V Verdacht auf Melanom am Übergang vom Hinterkopf zum Hals	patienthistorysection
+Laborparameter: -	patienthistorysection
+Röntgen: -	therapy
+Fremdbefunde: -	therapy
+Histologie: -	therapy
+Verlauf: -	therapy
+Entlassungsbefund: -	therapy
+Prognose: -	future
+Therapien:	therapy
+Huminsulin Basal (NPH) Fertigpen 3 ml, morgens und abends, je eine Spritze Penicillin V1 Mega von ct, morgens, mittags und abends, je eine Filmtablette	therapy
+Empfehlung: -	future
