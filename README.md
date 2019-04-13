@@ -20,4 +20,4 @@ Building
 * Convert the project (Eclipse: right klick -> Convert to Maven Project)
 * add <classpathentry kind="src" path="resources"/> to the .classpath file 
 * Launch configuration: de.aitools.aq.wat.WatServletServer
-* Eclipse: Set the path of the example project data ("example-annotation-project-data") in the Run Configurations: Arguments -> Working directory -> other -> .../git/wat-extension/example-annotation-project-data
+* Eclipse: Set the path of the example project data ("example-annotation-project-data") in the Run Configurations: Arguments -> Working directory -> other -> .../git/new-WAT-SL/example-annotation-project-data
